@@ -1,0 +1,37 @@
+{
+  "titulo": "Mais uma obra",
+  "subtitulo": "Os dezessete de Campo Bom",
+  "capitulos": 16,
+  "palavras_narrativa": 8778,
+  "minutos_a_250_palavras_por_minuto": 35.1,
+  "faixa_200_250_palavras_minuto": [
+    35.1,
+    43.9
+  ],
+  "paginas_totais_pdf": 66,
+  "paginas_narrativa_pdf": 62,
+  "fonte_corpo_pontos": 12.572,
+  "aberturas_capitulos": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    31,
+    35,
+    39,
+    42,
+    46,
+    50,
+    54,
+    58,
+    62
+  ],
+  "pdf_integridade_paragrafos": "PASSOU",
+  "epub_zip_xml_links_paragrafos": "PASSOU",
+  "epubcheck": "Não executado",
+  "kindle_previewer": "Não executado",
+  "autoria_assinatura": "Não informada; omitida"
+}
